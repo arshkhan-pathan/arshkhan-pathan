@@ -1,0 +1,17 @@
+Naive approach algorithm
+
+{ static int getlargest(int arr[], int n)
+    {
+
+        for(int i = 0; i < n; i++)
+        {
+            boolean flag= true;
+            for (int j=0;j<n;j++) {
+                if (arr[j] > arr[i]) {
+                    boolean flag = false;
+                    break;
+                }
+                if (flag = true)
+                    return n;
+            }
+else retun -1
