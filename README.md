@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arshkhan-pathan
-- 👀 I’m interested in coding and learning new things
+- 👀 I’m interested in coding and learning new things.
 - 🌱 I’m currently learning ReactJS and Django
 - 📫 How to reach me instagram @arshkhan_pathan
 
